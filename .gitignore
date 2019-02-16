@@ -1,0 +1,12 @@
+# Remove image file from staging
+*.png
+*.jpg
+/asset/img/
+
+#remove pdf file from staging
+/asset/pdf/fest/*.pdf
+
+#ignore sitemap 
+sitemap.xml
+gtag.gs
+google24d93b961fe41ef6.html
