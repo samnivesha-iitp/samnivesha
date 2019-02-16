@@ -1,3 +1,12 @@
 #remove image indexing
 *.jpg
 *.png
+
+#remove sitemap
+sitemp.xml
+ 
+#remove gtag
+gtag.js
+
+#remove google index file
+google24d93b961fe41ef6.html
